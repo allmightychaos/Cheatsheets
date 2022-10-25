@@ -28,10 +28,8 @@ Table of Contents
    * [Miscellaneous](#miscellaneous)
       * [Get the number of bits in an integer in binary, excluding the sign and leading zeros.](#get-the-number-of-bits-in-an-integer-in-binary-excluding-the-sign-and-leading-zeros)
       * [Swap two variables in one line](#swap-two-variables-in-one-line)
-   * [Books and other resources](#books-and-other-resources)
    * [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
    * [Author](#author)
-   * [License](#license)
 
 Installation
 ============
@@ -455,28 +453,11 @@ Swap two variables in one line
 a, b = b, a
 ```
 
-My Python Articles
-============
-1. [How To Run a Python Script Using a Docker Container](https://towardsdatascience.com/how-to-run-a-python-script-using-a-docker-container-ea248e618e32)
-2. [How To Create a Twitter Bot in Python](https://levelup.gitconnected.com/how-to-create-a-twitter-bot-in-python-bf49a384905f)
-3. [How To Extract Text From Images Using Tesseract OCR Engine and Python](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)
-4. [How to Connect to a PostgreSQL Database With a Python Serverless Function](https://towardsdatascience.com/how-to-connect-to-a-postgresql-database-with-a-python-serverless-function-f5f3b244475)
-5. [How to Deploy a Python Serverless Function to Vercel](https://towardsdatascience.com/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0)
-6. [How to Dockerize an Existing Flask Application](https://towardsdatascience.com/how-to-dockerize-an-existing-flask-application-115408463e1c)
-7. [How To Create a Docker Image From a Container](https://python.plainenglish.io/how-to-create-a-docker-image-from-a-container-402f70f3dbf0)
-
-Books and other resources
-============
-1. TODO
-
 Bug Reports and Feature Requests
 ============
 Please create an issue with as much information you can. Thank you.
 
 Author
 ============
-Mahbub Zaman (https://mahbub.ninja)
+Chaos (https://www.github.com/allmightychaos)
 
-License
-============
-MIT License
