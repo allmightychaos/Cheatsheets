@@ -2,9 +2,10 @@
     Change specific items of a Theme in VSCode
 </h1>
 
+<img align="right" src="../VSCode-Color-Theme/images/settings-json.png">
+
 - First, open ``Settings`` in VSCode (Hotkey: ``CTRL / CMD + ,``)
 - Click on the button in the right upper corner to open up ``settings.json``
-<img align="right" src="/images/settings-json.png">
 - Then add your changes in the color (examples further down below)
 
 The changes will effect **all** color Themes!
