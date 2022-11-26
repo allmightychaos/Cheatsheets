@@ -4,6 +4,7 @@
 
 - First, open ``Settings`` in VSCode (Hotkey: ``CTRL / CMD + ,``)
 - Click on the button in the right upper corner to open up ``settings.json``
+<img align="right" src="/images/settings-json.png">
 - Then add your changes in the color (examples further down below)
 
 The changes will effect **all** color Themes!
