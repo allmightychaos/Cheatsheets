@@ -17,14 +17,19 @@ The changes will effect **all** color Themes!
 If not already, you need to add ``"editor.tokenColorCustomizations": {}`` anywhere in the file.
 There are variations of commands, to change the syntax colors!
 
-To change the color of strings:
+<br>
+
+<p align="center">To change the color of strings:</p>
+
 ```json
 "editor.tokenColorCustomizations": {
     "strings": "#12a95c",
 },
 ```
+<br>
 
-To change the color of comments:
+<p align="center">To change the color of comments:</p>
+
 ```json
 "editor.tokenColorCustomizations": {
     "comments": "#12a95c",
@@ -32,7 +37,7 @@ To change the color of comments:
 ```
 <br><br>
 
-### For the following codes, we will always be in the ``"textMateRules``:
+<h2 align="center">For the following codes, we will always be in the "textMateRules":</h2>
 
 ```json
 "editor.tokenColorCustomizations": {
@@ -44,10 +49,12 @@ To change the color of comments:
             }
         },
     ]
+},
 ```
 <br>
 
-To change the color of quotation marks:
+<p align="center">To change the color of quotation marks:</p>
+
 ```json
 {
     "scope": "punctuation.definition.string.begin",
@@ -63,7 +70,10 @@ To change the color of quotation marks:
 },
 ```
 
-To change the color of classes in css (``.body``, etc.)
+<br>
+
+<p align="center">To change the color of classes in css (.body, etc.)</p>
+
 ```json
 {
     "scope": "entity.other.attribute-name.class.css",
@@ -73,7 +83,10 @@ To change the color of classes in css (``.body``, etc.)
 },
 ```
 
-To change the color of id's in css (``#body``, etc.)
+<br>
+
+<p align="center">To change the color of id's in css (#body, etc.)</p>
+
 ```json
 {
     "scope": "entity.other.attribute-name.id.css",
@@ -82,9 +95,10 @@ To change the color of id's in css (``#body``, etc.)
     }
 },
 ```
+<br>
 
+<p align="center">To change the color of classes in html</p>
 
-To change the color of classes in html
 ```json
 {
     "scope": "entity.other.attribute-name",
@@ -94,7 +108,10 @@ To change the color of classes in html
 },
 ```
 
-To change the color of pseudo-elements in css (``::placeholder``, etc.)
+<br>
+
+<p align="center">To change the color of pseudo-elements in css (input::placeholder, etc.)</p>
+
 ```json
 {
     "scope": "entity.other.attribute-name.pseudo-element",
@@ -104,7 +121,10 @@ To change the color of pseudo-elements in css (``::placeholder``, etc.)
 },
 ```
 
-To change the color of pseudo-classes in css (``:hover``, etc.)
+<br>
+
+<p align="center">To change the color of pseudo-classes in css (button:hover, etc.)</p>
+
 ```json
 {
     "scope": "entity.other.attribute-name.pseudo-class",
@@ -114,7 +134,10 @@ To change the color of pseudo-classes in css (``:hover``, etc.)
 },
 ```
 
-To change the color of numbers (in css, for example)
+<br>
+
+<p align="center">To change the color of numbers (in css, for example)</p>
+
 ```json
 {
     "scope": "constant.numeric",
@@ -124,7 +147,10 @@ To change the color of numbers (in css, for example)
 },
 ```
 
-To change the color of units in css (``px``, ``rem``, etc.)
+<br>
+
+<p align="center">To change the color of units in css (px, rem, etc.)</p>
+
 ```json
 {
     "scope": "keyword.other.unit",
@@ -134,7 +160,11 @@ To change the color of units in css (``px``, ``rem``, etc.)
 },
 ```
 
-To change the color of (constant) rgb/hex-values (``#fffff``, etc.)
+<br>
+
+<p align="center">To change the color of (constant) rgb/hex-values (#fffff, etc.)</p>
+
+    
 ```json
 {
     "scope": "constant",
@@ -143,7 +173,12 @@ To change the color of (constant) rgb/hex-values (``#fffff``, etc.)
     }
 },
 ```
-To change the color of ``#`` in css, etc.
+
+<br>
+
+<p align="center">To change the color of # in css (before the hex color-code), etc.</p>
+
+
 ```json
 {
     "scope": "punctuation.definition.constant",
