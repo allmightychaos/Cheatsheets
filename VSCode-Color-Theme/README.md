@@ -12,7 +12,8 @@ The changes will effect **all** color Themes!
     Examples:
 </h2>
 
-If not already, you need to add ``"editor.tokenColorCustomizations": {}`` anywhere to it.
+If not already, you need to add ``"editor.tokenColorCustomizations": {}`` anywhere in the file.
+There are variations of commands, to change the syntax colors!
 
 To change the color of strings:
 ```json
