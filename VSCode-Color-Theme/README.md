@@ -30,6 +30,7 @@ To change the color of comments:
     "comments": "#12a95c",
 },
 ```
+<br><br>
 
 ### For the following codes, we will always be in the ``"textMateRules``:
 
@@ -44,7 +45,7 @@ To change the color of comments:
         },
     ]
 ```
-
+<br>
 To change the color of quotation marks:
 ```json
 {
