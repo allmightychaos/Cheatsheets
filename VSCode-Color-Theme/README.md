@@ -46,6 +46,7 @@ To change the color of comments:
     ]
 ```
 <br>
+
 To change the color of quotation marks:
 ```json
 {
