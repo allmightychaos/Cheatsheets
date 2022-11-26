@@ -14,7 +14,7 @@ The changes will effect **all** color Themes!
     Examples:
 </h2>
 
-If not already, you need to add ``"editor.tokenColorCustomizations": {}`` anywhere in the file.
+If not already, you need to add ``"editor.tokenColorCustomizations": {}`` anywhere in the file. <br>
 There are variations of commands, to change the syntax colors!
 
 <br>
